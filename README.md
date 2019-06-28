@@ -1,6 +1,10 @@
 # continuous_four_room
 
-The continuous version of four-room environment. ![image](https://github.com/woluo/continuous_four_room/four_room.pdf)
+The continuous version of four-room environment. 
+
+<img src="four_room.png" width=300>
+
+The agent tries to enter into the vicinity of the goal.
 
 ## Getting Started
 
