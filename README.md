@@ -1,6 +1,6 @@
 # continuous_four_room
 
-The continuous version of four-room environment. 
+The continuous version of four-room environment. ![image](https://github.com/woluo/continuous_four_room/four_room.pdf)
 
 ## Getting Started
 
