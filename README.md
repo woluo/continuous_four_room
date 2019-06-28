@@ -1,6 +1,6 @@
 # continuous_four_room
 
-The continuous version of four-room environment.
+The continuous version of four-room environment. 
 
 ## Getting Started
 
@@ -9,20 +9,22 @@ These instructions will get you a copy of the project up and running on your loc
 ### Prerequisites
 
 python=3.6
+
 numpy=1.16.3
+
 gym
 
 ### Installing
 
-You can perform an installation ``four-room`` by following:
+You can perform an installation ``continuous_four_room`` by following:
 
 ```
-git clone 
+git clone git@github.com:woluo/continuous_four_room.git
 ```
 
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Jiajun Fei**
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+* **Zhimin Hou**
